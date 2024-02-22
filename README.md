@@ -7,7 +7,7 @@ Large Language Models (LLMs) have shown remarkable progress in natural language 
 
 
 ## Table of Contents
-# Book Summaries with LangChain and OpenAI Streamlit App
+## Book Summaries with LangChain and OpenAI Streamlit App
 # Book Summaries with LangChain and OpenAI Streamlit App
 # Chat with Multiple Documents
 # Chat_with_CSV_File_Lllama2
