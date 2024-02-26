@@ -6,7 +6,7 @@ A collection of AWESOME things about **Graph-Related Large Language Models (LLMs
 Large Language Models (LLMs) have shown remarkable progress in natural language processing tasks. However, their integration with graph structures, which are prevalent in real-world applications, remains relatively unexplored. This repository aims to bridge that gap by providing a curated list of research papers that explore the intersection of graph-based techniques with LLMs.
 
 
-## Table of Contents
+## Table of Contents..
 ## Book Summaries with LangChain and OpenAI Streamlit App
 # Book Summaries with LangChain and OpenAI Streamlit App
 # Chat with Multiple Documents
